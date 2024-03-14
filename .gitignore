@@ -1,6 +1,0 @@
-# Przykładowy plik CODEOWNERS
-# Określenie właścicieli dla konkretnych plików lub katalogów
-*       @admins
-/docs/* @docs-team
-/api/*  @backend-team
-/ui/*   @frontend-team
